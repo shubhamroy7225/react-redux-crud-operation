@@ -1,0 +1,21 @@
+.inputText{
+    width: 80%;
+    padding: 0px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    background-color: #5bc0de;
+    color: white;
+  }
+  .inputDiv{
+    width: 20%;
+    box-sizing: border-box;
+    border: none;
+    background-color: #5bc0de;
+  }
+  .containerDiv{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      flex-wrap: wrap;
+  }
